@@ -1,0 +1,25 @@
+#: locale=nb
+
+## Tour
+
+### Description
+tour.description = Haakon VII - Kongebil
+
+### Title
+tour.name = Haakon VII - Kongebil
+
+## Media
+
+### Title
+panorama_40C5ADCB_4AE6_34AA_41BB_AF5D574E04BF.label = R0020902-HDR-denoise-denoise
+panorama_4348F654_4AE2_17BE_41A8_D10CDDF8BCB9.label = Kongesetet
+panorama_43A4DE6D_4AE2_146E_41C5_27331148A903.label = Konge sjofør
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_44B93753_4AEE_15BA_41A1_27B9B7F6B192.toolTip = Gå ut av bilen
+HotspotPanoramaOverlayArea_460A0035_4AE2_0BFE_41CA_44E8B2D2F689.toolTip = Sitt deg inn i bilen
+HotspotPanoramaOverlayArea_472CA4DF_4AEE_74AA_41D0_876D23739CA6.toolTip = Sitt som en Konge
+HotspotPanoramaOverlayArea_477C9AD8_4AEE_FCB6_41A8_407C42C35D1C.toolTip = Sett deg frem bak rattet
+HotspotPanoramaOverlayArea_478F35FB_4AE2_746A_41B4_6D13C6C25286.toolTip = Ut av bilen
